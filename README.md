@@ -1,8 +1,8 @@
-# CarND-Controls-PID
+# Self_Driving_Car_NanoDegree_P8_Car_PID_Control
 Self-Driving Car Engineer Nanodegree Program
 
 |PID-Control-Project|
-|[![PID-CONTROL-Project](images/image.PNG)](https://www.youtube.com/watch?v=dMyuygrG2ys)
+|[![PID-CONTROL-Project](images/image.PNG)](https://www.youtube.com/watch?v=-y0Mg3jJZXk&feature=youtu.be)
 ## Project Basics
 
 In this C++ project, we use a Proportional-Integral-Derivative Controller, or PID for short, in order to drive a simulated car around a virtual track. The project involves implementing the controller primarily for the steering angle of the car (although I used the value from this controller to also determine throttle), as well as tuning coefficients for each PID value in order to calculate a steering angle that keeps the car on the track.
